@@ -1,0 +1,7 @@
+node_modules/
+.env
+.wwebjs_auth/
+.wwebjs_cache/
+qrcode.png
+*.log
+seen_news.json
